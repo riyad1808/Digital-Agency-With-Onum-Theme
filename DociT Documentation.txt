@@ -1,0 +1,9 @@
+This is i have done in live server: https://internetmonarch.com/
+wp username: internetmonarch
+wp password: internetmonarch
+
+Also i do the Task in local server using xampp
+Database name: wordpress
+database username: root
+  wp username: riyad
+wp password: riyad
